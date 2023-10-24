@@ -4,13 +4,13 @@ Hello 👋 I’m Marcelo Iuli, a full-stack software engineer and new graduate a
 
 👀 Here are some projects I've worked on ...
 
-1.[War](https://github.com/marceloiuli/WAR)
+1. [War](https://github.com/marceloiuli/WAR) - A quick and fun card game based in luck that can be replayed on your browser
 
-2.[SecretSafe](https://github.com/marceloiuli/Off-Your-Chest)
+2. [SecretSafe](https://github.com/marceloiuli/Off-Your-Chest) - Developed a social media app where a user can post anonymously about anything they feel and the ability to control feedback
 
-3.[SockX](https://github.com/marceloiuli/sockx)
+3. [SockX](https://github.com/marceloiuli/sockx) - Collaboratively designed an app where users can search and view posts on shoes with the intent to buy shoes from other users
 
-4.[Abduct-Me](https://github.com/marceloiuli/abduct-me)
+4. [Abduct-Me](https://github.com/marceloiuli/abduct-me) - Created and developed an interactive app where users could book their own “Alien Abduction”
 
 Contact me
 
