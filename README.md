@@ -5,8 +5,11 @@ Hello 👋 I’m Marcelo Iuli, a full-stack software engineer and new graduate a
 👀 Here are some projects I've worked on ...
 
 1.[War](https://github.com/marceloiuli/WAR)
+
 2.[SecretSafe](https://github.com/marceloiuli/Off-Your-Chest)
+
 3.[SockX](https://github.com/marceloiuli/sockx)
+
 4.[Abduct-Me](https://github.com/marceloiuli/abduct-me)
 
 Contact me
