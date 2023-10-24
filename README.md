@@ -1,6 +1,6 @@
 Welcome to my Github Profile
 
-Hello 👋 I’m Marcelo Iuli, a full-stack software engineer and new graduate at General Assembly's SEI Bootcamp! I'm inquisitive about coding and I enjoy solving problems creatively and efficiently. Some of the languages I've worked with before include JavaScript, Python, and React. I also have experience working with the MERN stack and other database libraries as well. While I tend to spend most of my days coding, if I'm not by my computer I enjoy watching movies, spending time with my family and friends, and playing with my dog. 
+Hello 👋 I’m Marcelo Knox-Iuli, a full-stack software engineer and new graduate at General Assembly's SEI Bootcamp! I'm inquisitive about coding and I enjoy solving problems creatively and efficiently. Some of the languages I've worked with before include JavaScript, Python, and React. I also have experience working with the MERN stack and other database libraries as well. While I tend to spend most of my days coding, if I'm not by my computer I enjoy watching movies, spending time with my family and friends, and playing with my dog. 
 
 👀 Here are some projects I've worked on ...
 
